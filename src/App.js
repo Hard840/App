@@ -2,9 +2,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      fuck git and git bush
-
-      bars corupsioner
+      <h1>BFG - Big Fucking Golos</h1>
     </div>
   );
 }
