@@ -2,7 +2,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      fuck git
+      fuck git and git bush
     </div>
   );
 }
